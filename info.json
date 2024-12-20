@@ -1,0 +1,12 @@
+{
+	"name": "folk-flyfool",
+	"version": "0.1.0",
+	"factorio_version": "2.0",
+	"title": "Fly, fool!",
+	"author": "folk",
+	"contact": "",
+	"homepage": "",
+	"description": "Makes the mech armor preserve the movement speed you had at takeoff.",
+	"dependencies": ["base", "space-age"],
+	"license": "CC-BY-NC 4.0"
+}
